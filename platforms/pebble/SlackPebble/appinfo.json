@@ -1,0 +1,37 @@
+{
+    "appKeys": {},
+    "capabilities": [],
+    "companyName": "Strap",
+    "longName": "StrapKit for Pebble.js",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/strap-icon-white-blackbg-era.png",
+                "name": "STRAP_ICON_WHITE_BLACKBG_ERA",
+                "type": "png"
+            },
+            {
+                "file": "images/strap-icon-white-blackbg-era-d.png",
+                "name": "STRAP_ICON_WHITE_BLACKBG_ERA_D",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "StrapKitjs",
+    "uuid": "53a45835-fead-4fcb-a7f2-d8d023146ef7",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
